@@ -1,7 +1,0 @@
----
----
-{
-  "github": "{{ site.github.url }}",
-  "page_inspect": {{ page | jsonify }},
-  "site_inspect": {{ site | jsonify }}
-}
