@@ -7,3 +7,5 @@ references:
     publisher: 
     date_published: 
 ---
+
+Guns shouldn't be controlled.
