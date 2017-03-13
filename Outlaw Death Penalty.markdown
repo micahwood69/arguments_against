@@ -11,13 +11,13 @@ references:
     link: http://www.baltimoresun.com/news/maryland/bal-md.kane05feb05-column.html
     author: Gregory Kane
     publisher: Baltimore Sun
-    date_published: Feb. 5, 2003
+    date_published: 2003-02-05
   -
     title: Studies Say Death Penalty Deters Crime
     link: http://www.washingtonpost.com/wp-dyn/content/article/2007/06/11/AR2007061100406.html
     author: Robert Tanner
     publisher: The Washington Post
-    date_published: June 11, 2007
+    date_published: 2007-06-11
   -
     title: Arguments in favour of capital punishment
     link: http://www.bbc.co.uk/ethics/capitalpunishment/for_1.shtml
@@ -29,7 +29,7 @@ references:
     link: http://www.cbsnews.com/news/once-a-criminal-always-a-criminal/
     author: Stephanie Slifer
     publisher: CBS News
-    date_published: Apr. 23, 2014
+    date_published: 2014-04-23
   -
     title: Life Sentences in the Federal Criminal Justice System
     link: http://www.ussc.gov/research/research-publications/life-sentences-federal-criminal-justice-system
@@ -42,7 +42,7 @@ references:
 http://www.law.uchicago.edu/files/files/239.crs-av.capital-punishment.pdf
     author: Dominic J. Wilkinson, Thomas Douglas
     publisher: The American Journal of Bioethics
-    date_published: Nov. 17, 2008
+    date_published: 2008-11-17
   -
     title: 
     link: 
