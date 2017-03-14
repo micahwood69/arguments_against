@@ -38,8 +38,7 @@ references:
     date_published:
   -
     title: Consequentialism and the Death Penalty
-    link: http://www.tandfonline.com/doi/abs/10.1080/15265160802478461?journalCode=uajb20;
-http://www.law.uchicago.edu/files/files/239.crs-av.capital-punishment.pdf
+    link: http://www.tandfonline.com/doi/abs/10.1080/15265160802478461?journalCode=uajb20;http://www.law.uchicago.edu/files/files/239.crs-av.capital-punishment.pdf
     author: Dominic J. Wilkinson, Thomas Douglas
     publisher: The American Journal of Bioethics
     date_published: 2008-11-17
