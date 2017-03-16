@@ -8,4 +8,4 @@ references:
     date_published: 
 ---
 
-Guns shouldn't be controlled.
+The federal government should prevent states from decriminalizing marijuana use.

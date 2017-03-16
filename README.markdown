@@ -1,18 +1,19 @@
-# Arguments For Less Government
+# Arguments in Opposing Change
 
-__Check out [the content guidelines](https://www.convinceme.us/content_instructions)__
-
-Arguments that call for an decrease in government size, regulation or spending belong here.
+- [Info](https://github.com/convinceme/info)
+- [content guidelines](https://www.convinceme.us/content_instructions)
 
 Good arguments do these things:
 
-- Detail _how_ government should be reduce
-- Explain the goal of the reduction
-- Use references to back itself up
+- Explain what the change would do
+- Explain why the change shouldn't happen
+- Use references
 
-Pull Requests can only be merged by the GitHub team members in charge of arguments for less government (they serve as editors).
+The goal is to convince people, not preach to the choir or insult people who believe different things
 
-===========================================================
+Pull Requests can only be merged by the GitHub team members in charge of _arguments against_.
+
+---------------------------------
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"/></a>
 
